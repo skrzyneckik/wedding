@@ -36,7 +36,7 @@ publishDir = "docs"
 			about     = "About"
 			services  = "Services"
 			portfolio = "Portfolio"
-			contact   = "Contact"
+			contact   = "Kontakt/Contact"
 
 
 	# Hero section
@@ -96,10 +96,16 @@ publishDir = "docs"
 
 	# Contact section
 	[params.contact]
-		headline = "Let's Get In Touch!"
-		description = "Ready to start your next project with us? That's great! Give us a call or send us an email and we will get back to you as soon as possible!"
-		phone = "123-456-6789"
-		email = "feedback@startbootstrap.com"
+		headline_pl = "Kontakt"
+		description_pl = "W razie jakichkolwiek pytań prosimy o kontakt."
+		phone_pl_1 = "+48 501 747 971 Agnieszka"
+		phone_pl_2 = "+48 798 865 894 Krzysztof"
+		headline = "Contact"
+		description = "If you have any questions, please do ask!"
+		phone_1 = "+44 07873931703 Agnieszka"
+		phone_2 = "+44 07751018078 Krzysztof"
+		email_1 = "agnieszka.suliga@gmail.com"
+		email_2 = "skrzynecki.krzysztof@gmail.com"
 
 	# Google Maps section
 	# [params.location]
