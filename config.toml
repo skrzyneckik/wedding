@@ -1,4 +1,4 @@
-baseurl = "https://skrzyneckik.github.io/wedding/"
+baseurl = "https://skrzyneckik.github.io/"
 languageCode = "en-us"
 title = "Hugo Creative Theme"
 theme = "hugo-creative-theme"
