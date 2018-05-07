@@ -35,7 +35,7 @@ publishDir = "docs"
 		[params.navigation.links]
 			about     = "Witamy/Welcome"
 			location  = "Lokalizacja/Location"
-			portfolio = "Portfolio"
+			accomodation = "Zakwaterowanie/Accomodation"
 			contact   = "Kontakt/Contact"
 
 
@@ -97,6 +97,15 @@ publishDir = "docs"
 	#	[params.aside.button]
 	#		text = "Download now"
 	#		link = "//github.com/digitalcraftsman/hugo-creative-theme"
+
+	# Accomodation section
+	[params.accomodation]
+		title    = "Zakwaterowanie/Accomodation"
+		headline_pl    = "Drodzy Goście,"
+		description_pl = "Dziękujemy szczególnie tym z Was którzy przyjadą z daleka. Dane dotyczące Waszego noclegu przekażemy Wam osobiście."
+
+		headline    = "Dear Guests,"
+		description    = "We appreciate your visit. We will share the details of your accommodation directly with you. We invite all guests from the UK to arrive on Friday."
 
 	# Contact section
 	[params.contact]
