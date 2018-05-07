@@ -34,7 +34,7 @@ publishDir = "docs"
 
 		[params.navigation.links]
 			about     = "Witamy/Welcome"
-			services  = "Services"
+			location  = "Lokalizacja/Location"
 			portfolio = "Portfolio"
 			contact   = "Kontakt/Contact"
 
@@ -113,6 +113,13 @@ publishDir = "docs"
 
 	# Google Maps section
 	[params.location]
+		title    = "Church of St. Joseph, Zamoyskiego 2 street, 30-523 Cracow, Poland"
+		headline_pl    = "Drodzy Goście, Nasz ślub odbędzie się w kościele pw. św. Józefa, na Rynku Podgórskim w Krakowie, dokładny adres to ul. Zamoyskiego 2, 30-523."
+		description_pl = "Po uroczystości zaślubin serdecznie zapraszamy na przyjęcie weselne w Dworze w Tomaszowicach, ul. Krakowska 68, 32-085, Tomaszowice."
+
+		headline    = "Church of St. Joseph, Zamoyskiego 2 street, 30-523 Cracow, Poland"
+		subheadline    = "Reception to follow at Dwór w Tomaszowicach, Krakowska 68 street, 32-085 Tomaszowice, Poland"
+
 		latitude  = "50.0433063"
 		longitude = "19.9477047"
 	 	maps_api_key = "AIzaSyCafl1K6zv-oGKOHpkpDLsxSx6eXvBvAXs"
