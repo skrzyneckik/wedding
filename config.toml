@@ -56,7 +56,7 @@ publishDir = "docs"
 		subheadline    = "Request the pleasure of your company to join the celebration of their wedding"
 		description = "Saturday, 1st of September 2018 at 16:00. Kindly respond by 1st of June 2018"
 		buttonText = "Confirm Now!"
-		link = "//rsvp.skrzyneckik.com"	
+		link = "http://rsvp.skrzyneckik.com"	
 
 	# Service section
 	#[params.services]
@@ -136,7 +136,7 @@ publishDir = "docs"
 
 	# Google Maps section
 	[params.location]
-		title    = "Lokalizacja/Lokation"
+		title    = "Lokalizacja/Location"
 		headline_pl    = "Drodzy Goście, Nasz ślub odbędzie się w kościele pw. św. Józefa, na Rynku Podgórskim w Krakowie, dokładny adres to ul. Zamoyskiego 2, 30-523."
 		description_pl = "Po uroczystości zaślubin serdecznie zapraszamy na przyjęcie weselne w Dworze w Tomaszowicach, ul. Krakowska 68, 32-085, Tomaszowice."
 
