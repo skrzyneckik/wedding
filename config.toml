@@ -107,6 +107,20 @@ publishDir = "docs"
 		headline    = "Dear Guests,"
 		description    = "We appreciate your visit. We will share the details of your accommodation directly with you. We invite all guests from the UK to arrive on Friday."
 
+	# Gift section
+	[params.gift]
+		title    = "Prezent/Gift"
+		headline_pl    = "Drodzy Goście,"
+		description_1_pl = "Najlepszym prezentem od Was będzie Wasza obecność z nami w tym najważniejszym dla nas dniu. Gdybyście życzyli sobie obdarować nas prezentem, będzie nam bardzo miło jeśli wspomożecie naszą podróż poslubną :)"
+		description_2_pl = "Możecie to zrobić osobiście, lub używając przelewu bankowego:"
+		#account_pl = ""
+		description_3_pl = "Będzie nam również bardzo miło jeśli zamiast kwiatów obdarujecie nas ważną dla Was książką, która mogłaby również nas ubogacić, lub ulubioną butelką wina, taką która szczególnie Wam smakuje, lub pochodzi z Waszego regionu. Dzięki temu Wasza obecność zostanie z nami na dłużej. Dziękujemy!"
+
+		headline    = "Dear Guests,"
+		description_1    = "The best wedding gift would be your presence! We would be very happy if you came to Cracow to celebrate with us this special occasion. However, if you wish to help us furnish the house or buy kitchen appliances ;) you can use the following bank details:"
+		#account = ""
+		description_2    = "A few words of explanation. Traditionally, the newly weds receive gifts and congratulations after the church ceremony. People line up with gifts and congratulations and some smaller and more personal gifts. Those gifts depend on the couple’s request. If you would like to do the same, we are requesting books that are important for you and you think they could enrich us or a bottle of your favourite wine, one you particularly like or one that comes from your region. Please stick a note to it so we know it is from you :) This way, your presence at our wedding will last longer. Many thanks."
+
 	# Contact section
 	[params.contact]
 		headline_pl = "Kontakt"
