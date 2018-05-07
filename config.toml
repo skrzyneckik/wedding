@@ -33,7 +33,7 @@ publishDir = "docs"
 		brand = "Hugo Creative Theme"
 
 		[params.navigation.links]
-			about     = "About"
+			about     = "Witamy/Welcome"
 			services  = "Services"
 			portfolio = "Portfolio"
 			contact   = "Kontakt/Contact"
@@ -49,10 +49,15 @@ publishDir = "docs"
 
 	# About section
 	[params.about]
-		headline    = "We've got what you need!"
-		description = "[Lorem](//google.com) ipsum dolor sit amet, consectetur adipisicing elit. Praesentium similique eos eligendi error veritatis harum, sed aliquid totam, quam minus neque enim est architecto, ad. Maiores, aliquid, vitae!"
-		buttonText  = "Get started!"
-
+		headline_pl    = "Wspólnie z Rodzicami Agnieszka Suliga i Krzysztof Skrzynecki"
+		subheadline_pl    = "Serdecznie zapraszają na uroczystość zaślubin"
+		description_pl = "Sobota, 1 września 2018 o 16:00. Prosimy o potwierdzenie przybycia do 1 czerwca 2018"
+		buttonText_pl = "Potwierdź teraz!"
+		headline    = "Together with their families Agnieszka Suliga and Krzysztof Skrzynecki"
+		subheadline    = "Request the pleasure of your company to join the celebration of their wedding"
+		description = "Saturday, 1st of September 2018 at 16:00. Kindly respond by 1st of June 2018"
+		buttonText = "Confirm Now!"
+		link = "//rsvp.skrzyneckik.com"	
 
 	# Service section
 	[params.services]
