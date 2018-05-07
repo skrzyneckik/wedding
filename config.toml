@@ -1,6 +1,6 @@
 baseurl = "https://skrzyneckik.github.io/wedding/"
 languageCode = "en-us"
-title = "Hugo Creative Theme"
+title = "RSVP for Agnieszka & Krzysztof Wedding"
 theme = "hugo-creative-theme"
 googleAnalytics = ""
 publishDir = "docs"
