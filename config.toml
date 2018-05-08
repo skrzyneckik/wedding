@@ -101,7 +101,7 @@ publishDir = "docs"
 
 	# Accomodation section
 	[params.accomodation]
-		title    = "Zakwaterowanie/Accomodation"
+		title    = "Zakwaterowanie / Accomodation"
 		headline_pl    = "Drodzy Goście,"
 		description_pl = "Dziękujemy szczególnie tym z Was którzy przyjadą z daleka. Dane dotyczące Waszego noclegu przekażemy Wam osobiście."
 
@@ -110,7 +110,7 @@ publishDir = "docs"
 
 	# Gift section
 	[params.gift]
-		title    = "Prezent/Gift"
+		title    = "Prezent / Gift"
 		headline_pl    = "Drodzy Goście,"
 		description_1_pl = "Najlepszym prezentem od Was będzie Wasza obecność z nami w tym najważniejszym dla nas dniu. Gdybyście życzyli sobie obdarować nas prezentem, będzie nam bardzo miło jeśli wspomożecie umeblowanie naszego mieszkania lub naszą podróż poslubną :)"
 		description_2_pl = "Możecie to zrobić osobiście, lub jeśli wolicie używając przelewu bankowego. Prosimy skontaktujcie się z nami w celu podania danych."
@@ -137,7 +137,7 @@ publishDir = "docs"
 
 	# Google Maps section
 	[params.location]
-		title    = "Lokalizacja/Location"
+		title    = "Lokalizacja / Location"
 		headline_pl    = "Drodzy Goście, Nasz ślub odbędzie się w kościele pw. św. Józefa, na Rynku Podgórskim w Krakowie, dokładny adres to ul. Zamoyskiego 2, 30-523."
 		description_pl = "Po uroczystości zaślubin serdecznie zapraszamy na przyjęcie weselne w Dworze w Tomaszowicach, ul. Krakowska 68, 32-085, Tomaszowice."
 
