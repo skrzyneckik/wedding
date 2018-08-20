@@ -108,6 +108,24 @@ publishDir = "docs"
 		headline    = "Dear Guests,"
 		description    = "We appreciate your visit. We will share the details of your accommodation directly with you. We invite all guests from the UK to arrive on Friday."
 
+	# Accomodation Dizzy Daisy section
+	[params.accomodation_dizzy_daisy]
+		title    = "Dizzy Daisy Downtown Hostel"
+		headline    = "Pędzichów 9, 31-152, Krakow, Poland"
+		description    = "Check in from 2 pm, Check out till 10am"
+
+		latitude  = "50.070025"
+		longitude = "19.9363644"
+
+	# Accomodation Cracow Rent Apartments section
+	[params.accomodation_cracow_rent_apartments]
+		title    = "Cracow Rent Apartments"
+		headline    = "Krowoderska 55, Stare Miasto, Kraków, 31-141, Poland"
+		description    = "Getting into the property: Before you go to the property, you'll need to pick up the keys from: Krowoderska 65A, 31-151 Kraków.<br>You can pick up the keys to the property at the reception desk.<br><br>Phone: +48 733 770 360<br>Check in from 2pm, Check out till 11am"
+
+		latitude  = "50.0704876"
+		longitude = "19.9331009"
+
 	# Gift section
 	[params.gift]
 		title    = "Prezent / Gift"
