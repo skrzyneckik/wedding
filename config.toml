@@ -36,6 +36,7 @@ publishDir = "docs"
 			about     = "Witamy/Welcome"
 			location  = "Lokalizacja/Location"
 			accomodation = "Zakwaterowanie/Accomodation"
+			practical = "Practical information"
 			contact   = "Kontakt/Contact"
 
 
@@ -119,6 +120,28 @@ publishDir = "docs"
 		title    = "Cracow Rent Apartments"
 		headline    = "Krowoderska 55, Stare Miasto, Kraków, 31-141, Poland"
 		description    = "Getting into the property: Before you go to the property, you'll need to pick up the keys from: Krowoderska 65A, 31-151 Kraków.<br>You can pick up the keys to the property at the reception desk.<br><br>Phone: +48 733 770 360<br>Check in from 2pm, Check out till 11am"
+
+	# Practical information
+	[params.practical]
+		title    = "First steps in Kraków"
+		headline    = "Getting to and from the airport:"
+		description    = "The airport is located about 20 min drive from the city centre. To get to your hostels from the airport please either:<ul><li>Train – leaves every hour and takes 18 min</li><li>Bus – leaves every hour as well and takes 40 min (replacement service for the train due to some construction work). This service leaves between the trains, so there is a way to get to the city every half an hour.</li></ul>Both train and bus tickets cost 9 Zloty (approx. £2). You can buy your ticket in one of the ticket machines, and pay either by card or cash. You can also buy a ticket inside the train, bus but only cash is accepted in this case. The station you are going to is Krakow Glowny (Krakow Main Station).<ul><li>Uber X should cost up to £10 (50 Zloty), please do not take a random taxi from in front of the airport, there is a risk that they might overcharge you seeing that you are foreiners. Alternatively ask how much in advance and if they say more than 50 Zloty it’s a scam!</li></ul>You can check the train times here: https://malopolskiekoleje.pl/index.php/pierwsza-strona"
+		extra = "<br>From Krakow Main station you can walk to your accommodation, it’s close."
+
+	# Wedding day
+	[params.wedding]
+		title    = "Wedding day"
+		description    = "The ceremony starts at 16 pm sharp, please arrive about 15 min early and take a seat inside the church. You can take a tram or a bus to the church for cheap (tram stop Plac Bohaterów Getta or Smolki) but taking Uber from the hostel should be more comfortable and also cheap.<br><br>The ceremony should last up to 1h.<br><br>After the ceremony if it doesn’t rain we will take pictures and people queue to give greetings and gifts the newlyweds. It is polite to wait until this is over and after that please get to the bus which will take you to the reception venue. My sister Asia is supposed to be in charge of this and check if everyone is safe in the bus, but please look after one another because she is not very reliable 😉<br><br>Once you get to the reception venue, please walk from the parking and wait for us in front of the reception venue. The tradition says that the couple is welcomed with wine, bread and salt which symbolises luck and prosperity. After that just find your seat and wait for the dinner to be served 😊"
+
+	# Sunday
+	[params.sunday]
+		title    = "Sunday"
+		description = "Those who are staying on Sunday as well and invited to join us for a late brunch. This will be an in <b>Le Scandale</b> restaurant which is located in the Jewish district. Address: plac Nowy 9, 30-001 Kraków, Poland"
+
+	# More info
+	[params.more]
+		title    = "More info"
+		description = "The currency is Poland is Polish Zloty (PLN, literally Polish Gold 😉 )<br>You can pay by card almost everywhere, but I recommend that you have at least 50 Zloty in cash (£10) upon arrival. <br><Br>Poland is very annoying when it comes to paying by cash, if you are buying a small think and using a note such as 100 or 200 PLN the staff will often say that they have no change. In case that happens just tell them that’s it’s not your problem 😉 Worst case scenario and they really don’t have change be prepared to pay by card.<br><br>English is widely spoken in pubs and restaurants and even some shops in city centre.<br><br>Places worth visiting:<ul><li>Take a stroll on a Market square if its your first time in Krakow</li><li>Walk along Grodzka street to Wawel castle, climb up the hill and explore the castle if you have time</li><li>Walk or take a tram to the Jewish district, its full of bars, cafes and lovely little streets</li>"
 
 	# Gift section
 	[params.gift]
