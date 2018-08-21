@@ -136,7 +136,7 @@ publishDir = "docs"
 	# Sunday
 	[params.sunday]
 		title    = "Sunday"
-		description = "Those who are staying on Sunday as well and invited to join us for a late brunch. This will be an in <b>Le Scandale</b> restaurant which is located in the Jewish district. Address: plac Nowy 9, 30-001 Kraków, Poland"
+		description = "Those who are staying on Sunday as well are invited to join us for a late brunch. This will be at 4PM in <b>Le Scandale</b> restaurant which is located in the Jewish district. Address: plac Nowy 9, 30-001 Kraków, Poland"
 
 	# More info
 	[params.more]
